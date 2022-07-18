@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">app_adoption_system</string>
+    <string-array name="modalidad_adopcion">
+        <item>Regular</item>
+        <item>Especial</item>
+        <item>Mixto</item>
+    </string-array>
+    <string-array name="estado_organismo">
+        <item>Activo</item>
+        <item>Inactivo</item>
+    </string-array>
+</resources>
